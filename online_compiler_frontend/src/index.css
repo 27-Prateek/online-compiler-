@@ -1,0 +1,5 @@
+@import "tailwindcss";
+html, body {
+    background-color: #111827; /* bg-gray-900 */
+    overflow: hidden; /* Prevents scrolling beyond content */
+}
